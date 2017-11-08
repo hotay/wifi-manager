@@ -1,0 +1,4 @@
+Flask==0.12.2
+requests==2.18.4
+selenium==3.7.0
+click==6.7
